@@ -1,0 +1,117 @@
+
+
+■オペ・サービスユーザ
+	group	: a12d1cb57424b7ee
+	id	: a12d1cb57424b7ee
+	pass	: 3db4d379547a7a1a
+
+■root
+	pass	: 830b86499aa5de4b
+
+■DB
+	id	: postgres
+	pass	: fdb58243fe267953
+
+
+===========================================
+
+開発環境のホストOS
+
+■一般ユーザ
+	id	: popauser1
+	pass	: popauser1
+
+■root
+	pass	: popa123
+
+===========================================
+
+外部アカウント
+
+■Mixi
+	id	: popa@actis.co.jp
+	pass	: 407aa347d2b348e2
+
+	Consumer Key	: 22485025357bca056e3d
+	Consumer Secret	: 73735bb2fa382290ada849cb3cee8f50b866890b
+	code		: af84c4bd3f2bc3926493e4217590be93233ac1e9
+
+■Twitter
+	id	: popa@actis.co.jp
+	pass	: actispopa
+	表示	: @popa_staff
+
+
+■Facebook
+	○個人 (ビジネスアカウント作成には個人アカウントが必要)
+		name	: Takashi Kondoh
+		mail	: ta_kondoh@actis.co.jp
+		pass	: 8323f9cac62e22cc
+	○ビジネス
+		カテゴリ	: ビジネスサービス
+		基本データ
+			カテゴリ
+				
+			説明
+				POP, キャッチコピーを投稿しポイントを貰おう。
+				お店はあなたの楽しい仕掛けを待っています！
+			HP
+				http://popa.jp/
+			写真
+				N/A
+			ターゲット
+				地域	: 日本
+				年齢	: 18 - 65
+				性別	: すべて
+				趣味・関心
+					その他
+						pop
+						スーパーマーケット
+						食料品店
+						宣伝
+						販売促進
+						百貨店
+					ビジネス・業界
+						マーケティング
+						営業
+						小売業
+					ビジネス・業界 > オンライン
+						オンライン広告
+						ソーシャルメディア
+						ソーシャルメディアマーケティング
+						ディスプレイ広告
+						デジタルマーケティング
+						メールマーケティング
+					趣味・アクティビティ
+						アート・音楽
+						食品・飲料品
+						飲料品
+						食品
+					買い物・ファッション
+						ショッピング
+						衣料品
+
+
+■Facebook 開発者登録用 (ビジネスアカウントだと開発者登録できないため)
+	name	: Popa Actis
+	mail	: popa_dev@actis.co.jp
+	pass	: 5eb1b863f1115c3b
+	
+	App Id		: 1647320122149450
+	App Secret	: fb3acd3671ec6db9675407d5e17fc677
+	
+	client token	: d8a2e25ed3c6337a52b6cef61d813c11
+
+
+■GMO-PG テスト環境
+	サイトID  ：tsite00018922
+	サイトURL ：https://kt01.mul-pay.jp/mulpayconsole/site/tsite00018922/
+	ログインID：ADMINISTRATOR
+	パスワード：popa_ACTIS030
+
+
+■nifty 法人ID
+	@nifty ID：bct46702　(ビー,シー,ティー,4,6,7,0,2)
+	パスワード：a5s7674r
+
+
